@@ -47,9 +47,9 @@ export default function Get_branch() {
                             color: 'white',
                             // backgroundColor: '#E53270',
                             borderRadius: '20px',
-                            padding: '4px 12px', // Adjust padding for uniform size
+                            padding: '4px 12px', 
                             textTransform: 'none',
-                            minWidth: '120px', // Ensure consistent button width
+                            minWidth: '120px',
                         }}
                     >
                         {params.row.land}
